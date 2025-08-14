@@ -1,3 +1,4 @@
+
 # Character data
 characters = {
     '1': {'name': 'Wizard', 'hp': 70, 'damage': 150},
@@ -41,3 +42,5 @@ while True:
     if my_hp <= 0:
         print(f"The {character} has lost the battle!")
         break
+
+
